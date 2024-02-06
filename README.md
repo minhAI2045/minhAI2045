@@ -6,7 +6,7 @@ My name is Vu Xuan Minh.I am a student at Hanoi University of Science and Techno
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhAI2045&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/minhAI2045/Build-model-predicting-diabetes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
