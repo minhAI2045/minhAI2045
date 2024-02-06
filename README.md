@@ -12,7 +12,7 @@ My name is Vu Xuan Minh.I am a student at Hanoi University of Science and Techno
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhAI2045&repo=Build-model-predicting-diabetes&theme=radical" />
 </a>    
-<a href="Design-module-to-emulate-PT2248-infrared-signal-decoding-IC">
+<a href="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhAI2045&repo=Design-module-to-emulate-PT2248-infrared-signal-decoding-IC&theme=merko" />
 </a>
