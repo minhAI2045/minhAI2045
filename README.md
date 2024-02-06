@@ -26,13 +26,13 @@ My name is Vu Xuan Minh.I am a student at Hanoi University of Science and Techno
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhAI2045&repo=Build-a-simple-recommender-system-with-Python&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/minhAI2045/RealTimeObjectDetection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhAI2045&repo=RealTimeObjectDetection&theme=onedark" />
 </a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
+<a href="https://github.com/minhAI2045/Data-Encryption-Standard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhAI2045&repo=Data-Encryption-Standard&theme=cobalt" />
 </a>
 
 <a href="https://github.com/uvipen/AirGesture/">
