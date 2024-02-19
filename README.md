@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Vu Xuan Minh.I am a student at Hanoi University of Science and Technology. I am interested in the following topics: Deep Learning in NLP and Computer Vision,Embedded System and Reinforcement Learning.<br>
+My name is Vu Xuan Minh.I am a student at Hanoi University of Science and Technology. I am interested in the following topics: Embedded System,Computer Vision and Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minh-v%C5%A9-xu%C3%A2n-4b4b4a277/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/minhAI2045) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UClzuqUmgeVE1_Ekfc7zWV4Q)
